@@ -1,0 +1,7 @@
+{
+    "id": "bb9397",
+    "name": "Letterboxd Sync",
+    "modes": ["configureManagedCollection", "syncManagedCollection"],
+    "icon": "/icon.svg",
+    "permissions": ["https://letterboxd.com/*", "https://*.ltrbxd.com/*", "https://*.vercel.app/*"]
+}
